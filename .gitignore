@@ -1,0 +1,13 @@
+# folders
+_backup/
+.pytest_cache/
+.idea/
+analyze/
+
+# files
+myhdrs.py
+*.pickle
+*.7z
+*.csv
+*.txt
+*.html
